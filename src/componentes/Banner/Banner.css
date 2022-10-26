@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    outline: none;
+}
+
+.banner {
+    background: #0044A5;
+    text-align: center;
+}
+
+.banner img {
+    max-width: 100%;
+}
